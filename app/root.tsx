@@ -7,7 +7,6 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
-  useActionData,
   useLoaderData,
 } from "@remix-run/react";
 
